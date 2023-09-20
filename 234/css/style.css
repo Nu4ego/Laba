@@ -1,0 +1,72 @@
+/*LoginForm*/
+.signin{
+    font-family: Inter;
+}
+
+.signin__warp{
+    display: flex;
+}
+
+.signin__block{
+    padding: 48px 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.signin__signin{
+    display: flex;
+}
+
+.signin__box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.signin__title{
+    font-size: 20px;
+    font-weight: 500;
+    color: #111;
+    margin-bottom: 35px;
+}
+
+.signin__google{
+    border-radius: 8px;
+    border: 1px solid #455FFD;
+    padding: 7,5 px 108.29px 108,71px;
+    color: #455FFD;
+    background: #FBFAF7;
+    margin-bottom: 30px;
+}
+
+.signin__input{
+    border-radius: 8px;
+    background: #F6F6F6;
+    padding: 7.5px 9px 10px 9px;
+    width: 100%;
+    margin-bottom: 17px;
+    margin: none;
+}
+
+.signin__enter{
+border-radius: 80px;
+border: 1px solid #a7a5a5;
+padding: 7.5px 108.29px 8px 108.71px;
+color: #fff;
+background: #2B788B;
+margin-bottom: 30px;
+width: 100%;
+}
+
+.hr{
+    margin-bottom: 30px;
+}
+
+.signin__input{
+    border-radius: 100px;
+    background: #C3DCE3;
+}
+
+/*web*/
+
